@@ -1,0 +1,30 @@
+body{
+    padding:50px;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: rgba(255, 251, 240, 0.4);
+}
+
+.container2{
+    max-width: 1000px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: rgba(255, 251, 240, 0.4);
+}
+
+.name {
+    color: #FFC008;
+    text-shadow: 1px 1px 5px black;
+}
+
+.form-group{
+    margin-bottom:30px;
+}
